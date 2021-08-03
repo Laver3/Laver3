@@ -10,4 +10,5 @@
 
     ⚡ Fun fact: I like VS Code
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laver3&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
+
