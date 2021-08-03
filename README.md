@@ -1,8 +1,8 @@
 ### Hello World! I'm Laver 👋
 
-    🌱 I’m currently JavaScript
+    🌱 I’m currently learning JavaScript
 
-    💬 Ask me about anything
+    💬 Don't ask me about anything
 
     📫 How to reach me: laver3249@outlook.com
     
