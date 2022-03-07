@@ -8,7 +8,7 @@
     
     💪 Codes: JavaScript, HTML
 
-    ⚡ Fun fact: I like VS Code
+    🇺🇦: #StopWar
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laver3&show_icons=true&theme=react)
 
